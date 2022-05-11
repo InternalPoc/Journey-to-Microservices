@@ -1,6 +1,6 @@
 # Setup
 
-## [Docker](https://github.com/deptcsa/Journey-to-Microservices/Docker/README.md)(required)
+## [Docker](https://github.com/deptcsa/Journey-to-Microservices/tree/main/Docker)(required)
 
 ## [TypeScript](https://github.com/microsoft/TypeScript/blob/main/README.md) (bonus)
 
